@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ### :herb: My name is Andrew Samylkin :raising_hand_man: :herb:
+
+When I was studying at the university, I took an interest in statistics and data analysis. After graduating from university, I started my career working for an oil refinery plant as an engineer who was in charge of automatization of various refining and petrochemical processes. I’ve applied my knowledge of statistics and algorithms. I have recently interesting in data analysis and machine learning and I was qualified as Data Analyst. I a fan of working with data and applying my knowledge to solve various cases and get some insights. I enjoy learning something new every time and working with it in reality.
+
+
+
 <!--
 Here are some ideas to get you started:
 
